@@ -31,4 +31,11 @@ phd 会面临各方面的压力，相比之下，本科毕业直接去工作，�
 ### 研究院
 微软亚洲研究院 （链接待补充）
 AI lab  （链接待补充）
-## 如何写PS/CV
+## 文书(以下只针对phd)
+### Recommendation Letter
+
+http://cs.brown.edu/~sk/Memos/Grad-School-Recos/
+### SOP
+https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html
+
+[In case of above link got 403 forbidden](http://cncc.bingj.com/cache.aspx?q=https%3a%2f%2fwww.cc.gatech.edu%2ffce%2fpeople%2fjmankoff%2fgradschool%2fsops.html&d=5058346297722870&mkt=en-US&setlang=en-US&w=A9NMmuwmNgf8RTiiTOnVSbde9m1kYBDH)
