@@ -38,4 +38,4 @@ http://cs.brown.edu/~sk/Memos/Grad-School-Recos/
 ### SOP
 https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html
 
-[In case of above link got 403 forbidden](http://cncc.bingj.com/cache.aspx?q=https%3a%2f%2fwww.cc.gatech.edu%2ffce%2fpeople%2fjmankoff%2fgradschool%2fsops.html&d=5058346297722870&mkt=en-US&setlang=en-US&w=A9NMmuwmNgf8RTiiTOnVSbde9m1kYBDH)
+[In case of above link got 403 forbidden](https://web.archive.org/web/20170727002417/https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
