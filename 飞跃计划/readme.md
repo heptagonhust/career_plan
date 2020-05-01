@@ -73,7 +73,7 @@ AI lab  （链接待补充）
 * (6)多掌握国外信息。可以多和国外的申请者交流，获取一些申请的最新信息。比如，哪个学校哪个系特别难，哪位老师比较push不要去，哪位老师的面试风格是怎样的，等等。既然身在国外，就要想尽办法获取一些你在国内无法获取的最新信息。
 #### 3.4. 小结
 科研毫无疑问是PhD申请中最重要的因素。对于本校科研而言，尽早确定目标、切实投入时间、扎实提升能力、适当追求成果，是大家应该遵守的原则。在申请过程中，暑研对于你的帮助是全方位的。需要强调的是，一般来说，对于美国教授，暑期实习学生很难给他的组带来很大的实质性帮助；对于帮忙推荐你出去的我校的老师，不仅帮你要消耗时间、动用自身人脉、承担你表现不好而影响其声誉的风险，甚至未来还会极大概率地失去你这个优质的潜在研究生生源，可谓是“稳亏不赚”。所以说，所有人其实都在无私地、不求回报地帮助我们，我们每时每刻，都一定要怀着一颗谦虚和感恩的心
-## 文书(以下只针对phd)
+## 文书(以下只针对phd)(需要注意，不会只因为ps/sop写的好，就录取一个phd)
 ### Recommendation Letter
 
 http://cs.brown.edu/~sk/Memos/Grad-School-Recos/
@@ -81,6 +81,71 @@ http://cs.brown.edu/~sk/Memos/Grad-School-Recos/
 https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html
 
 [In case of above link got 403 forbidden](https://web.archive.org/web/20170727002417/https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
+## 第二章文书撰写(感谢光电学院友情提供！)
+### 2.1 本章综述
+在网申系统中，大部分学校的必须文书包括简历CV（Resume / Curriculum Vitae）、个人陈述/目的陈述SoP（Personal Statement / Statement of Purpose）和推荐信RL（Letter of Reference）。在申请过程中，由于博士（PhD）申请对要求更多也更高，所以本章2.2-2.4节首先对博士申请文书写作的基本原则做出阐述，指出需要注意的要点和细节，为申请者自行撰写文书提供初步指导。在本章的最后一节2.5节，我们会在博士文书的基础之上，指出硕士（Master）申请的文书可能存在的些许不同点和侧重点，供不同的项目申请者参考。所以，希望各位申请都能完整地浏览完本章的内容，对不同项目文书的定位差异有一个清晰完整的认识。有两点需要注意，一是文书写作没有一个绝对完美或者正确的标准，不同学校、院系、项目甚至招生官的喜好和偏向风格都不一样，本章我们只是根据多位学长学姐几年的申请过程来对文书写作这个宽泛的问题做一个经验性的指导。所以希望同学们在申请的时候要学会根据自己的情况具体思考具体分析；二是对于各类所谓的文书“范文”，为避免  雷同，同学们千万不要抄袭。
+
+### 2.3 个人陈述/目的陈述（PS / SoP）
+#### 2.3.1 概述
+个人陈述/目的陈述在不同学校的申请系统中被称为Personal  Statement或Statement  of  Purpose。一般而言，SoP指的是与专业技能、研究经历和职业规划相关的正式文书，几乎所有学校都会要求申请者提供这样一份材料。这份材料也是能展现你对专业的理解和研究视野的重要材料，务必反复打磨直至完美。相对而言，PS更加注重你作为一名学生的多样性，而不那么侧重专业知识。例如，加州大学系统要求学生同时提供SoP和PS，详情https://graduate.universityofcalifornia.edu/admissions/applying/personal-statement/index.html。加州大学的PS又被称为为Personal History Statement或者Diversity Statement，要求“  不要复制SoP的内容，描述一下你的背景、成就、生活经历是如何影响你决定继续攻读研究生学位的。你可以包含任何与教育、个人、文化、经济、挑战等相关的内容”。简而言之，委员会希望从这份材料中看到你作为一个人的多样性，而不是作为一名学者的专业性。由于PS的重要性略低，所以部分项目（诸如UCLA 的BME）将其作为学生自选提供材料，但是我们还是建议大家提供这样一份“补充材料”。需要特别注意的是，少数项目只要求学生提供一份所谓的Personal  Statement  (UIUC  ECE&BME)或者Academic Statement of Purpose (Umich ECE)。而实际上，从官网上对这份材料内容的描述上我们也不难看出，这份材料就是我们上面指出的SoP。所以请各位同学务必仔细研读官网上的要求，注意甄别不同材料之间的区别，切不可混淆。对于大多数工科申请者而言，SoP是篇幅最长、内容最多的文书之一，同时也是最重要的申请材料之一，不同学校对SoP的篇幅要求不尽相同。考虑到MS和PhD的申请目标、所申请学校和项目的要求等因素带来的差异性，我们建议同学们预先准备一份尽可能详细“原始版本”，再根据不同学校、不同项目、不同导师的具体要求来针对性地做一定的增删和修改。教授和录取委员会将通过SoP了解其他申请材料中没有表现的内容，或对其他材料中提及的内容作深入了解。由于SoP内容的独特性，教授和委员会不仅能够通过它了解申请者的学术成果，更能了解其思想状态、性格特点。如同高考作文阅卷，招生官不会在一份SoP上停留太长时间，因此用“亮点”引起兴趣、展现自身与该学校或项目的契合，是SoP写作的核心也是难点。本节从准备阶段出发，介绍了SoP写作的一般性方法和原则，希望能够引导申请者找到适合自己的写作方法，从而写出令人满意的SoP。
+#### 2.3.2 准备阶段准备工作的核心是充分、深入地认识自己、了解自己、发掘自己，从大学三年乃至二十余年的人生经历中提炼出自己的学术观点。新颖独到、见解深刻的SoP正是招生官所希望的，这些文章让他们看到一位与众不同的申请者，可以让他们认识到一位学生在人生观和学术观上的成熟，从而引起兴趣。因此SoP的本质是从学术的角度理性地讲述申请者自己的故事。为了更好地剖析自身、讲好故事，我们在这里列举了一些写作SoP前可以思考的问题以供参考。
+* 对你选择当前专业和方向影响最大的人生事件是什么？你在何时何地何种情况下了解到申请的方向，为什么产生了兴趣？是什么让你觉得自己适合该方向？如果要申请PhD，你为什么要读PhD？你对自己要申请的方向的态度如何？你做好准备面对或忍受科研中的失败和其带来的孤独了吗？
+* 抛开已有的专业知识和科研经历，你有什么感兴趣的科学话题或课题？这些课题对应的学科领域是什么？
+* 你有什么能力（领导力、交流能力、合作能力等）？有什么事例可以加以证明？
+* 你的职业目标是什么？你如何解释自己学习成绩、标准化考试中表现出的劣势（如果必要的话）？创作一篇SoP需要回答以上问题且不限于这些问题，因其困难，SoP写作过程需要谨慎。这些问题将贯穿整个申请季，在面试中会被反复问到，因此回答它们绝非浪费时间。同时，思考这些问题也是一个很好的认识自我的机会，这让我们清醒地认识到自身优势和劣势，从而在申请乃至之后的学习、科研、工作中扬长避短、取长补短。同学们在准备阶段也可以参考各个高校的专业指导，如MIT https://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf，UC Berkeley https://grad.berkeley.edu/admissions/apply/statement-purpose/等等。此外，各大论坛（如知乎,一亩三分地等）上也有很多高票攻略，可供大家参考。
+#### 2.3.3 结构内容
+文无定法，SoP的写作也没有固定的格式和内容要求，但一般需要以下三要素：申请动机、经历和能力、研究热情和理想。此外，对于PhD申请者，部分学校会要求在文末枚举几位你感兴趣的教授。由于工程类学科的严谨性，我们不建议在写作SoP时在文学技巧或文章结构上标新立异，中规中矩、稳中有新的行文风格更加有利于申请者规避不必要的风险。在此给大家提供两种行文思路。一是以时间为顺序，逐步讲解自己的研究经历、学习经历和思想状态随时间变化的过程，最终使得自己坚定了继续深造的决心；二是以逻辑为顺序，这类行文难度较大。可以建立自身的兴趣发展过程、自己为了某个目标做的多方面准备过程等，这种结构可以做到层层深入、水到渠成、具有规划感和设计感。而对于那些对专业理解极深的学生，也可以按照自己对于专业的理解逐步深入行文。SoP的开头一般会开门见山地介绍自己感兴趣的方向和要申请的项目，并简要叙述自己的经历。在这段中，需要强调求学的动机（motivation），总体来说这个话题显得比较“大”，它要求申请者不仅把眼光局限在获取某个学位、进入某个行业上，更要把目光投射到自己所在的社群、民族、国家乃至全人类的福祉上。例如，自己或亲人曾经罹患某种疾病，引发了对于通过技术手段预防或治疗该疾病以改善人们生活的思考，从而对某一学科领域产生了兴趣。需要指出的是，此处切忌假、大、空的“套话”。其实对于整个SoP都一样，花里胡哨的口号如同绣花枕头，对于提升文章的深度没有一丝作用。SoP的中间段是展示个人特点的主阵地，内容选择上，要做到主次分明、详略得当。最重要的是，要注意SoP素材选取的目的性，你也许有很多科研经历，但可能其中的几个在本质上并无区别，都在SoP中提到就浪费了篇幅；你也许有较长时间的学生工作经历，但如果要申请PhD或强调科研的MS项目，这段经历就显得无关紧要；你也许在一段科研中并没有发表论文，但这段科研经历对你专业方向的选择产生了决定性影响，那么没有论文并不妨碍它成为SoP中的一个重点。在这个部分，你需要有目的且综合地展现自己。一般中间段落控制在三段左右。结尾部分比较灵活，可以对中间段做简要总结，阐述自己与所申请学校和项目的契合程度，并提及自己感兴趣的教授，以增加自己SoP的针对性。在套瓷过程中，教授可能会说you  can  mention me in your application，这意味着在结尾提及他的名字，你的材料可能会被直接递送给他，从而增加获得面试的可能性。最后需要注意的是，SoP的写作应紧紧围绕所申请学校，要在每一部分适当安排内容点到该学校的名字，并提及一两个该校特点，以显示申请者确实做了深入调研，在有一定了解的基础上真诚地希望申请该校。
+#### 2.3.4 后期修改
+一篇好的文章是改出来的（笔者的SoP被6个以上的对象反复修改了20次以上）。修改SoP的途径多种多样，列举如下：
+* Writing Center服务。如果你恰好在国外高校交流交换，学校通常有Writing Center可以提供文书修改服务，对学生通常免费，网上预约时间即可。但是Writing  Center里的指导老师多为在读的高年级硕士生，他们主要的任务是帮助本科生修改期末论文，所以可能对留学申请的SoP毫无概念。
+* 本校或暑研的科研导师。因为SoP的最终审核对象是目标院校招生委员会的教授，所以同学们找同为学术教授的导师修改无疑是最直接的方式。但一方面并不是每个人的导师都愿意帮学生修改，另一方面不是所有本校的老师都有过留学申请乃至留学招生的经历。一般而言，一位愿意帮你修改文书的国外院校的教授是最佳选择，也是最难的选择。
+* 高年级学长学姐。这条路是最直接也是最有效的方式，几乎无缝对接。刚刚完成留学申请的学长学姐（尤其是PhD）对于文书的把控能力甩部分中介几十条街。问题在于，国外上学的高年级学生诸事繁多，时间也很有限。所以各位学弟学妹在要求前辈帮忙修改的时候一定要提前预约时间，并注意礼貌和感恩。
+* 同学们互相修改。这是相互提高的很好的方式,也是相互之间沟通和交换信息的重要途径。
+* 请专业契合的国外高年级PhD（尤其是native  speaker修改）。可以通过自己的人脉网，请国外的高年级PhD给你修改。同专业高年级PhD能在内容深度上给予有用的指导，Native Speaker能使你的语言更加地道。当然，即使是请别人修改SoP，也不应简单地把文书交给别人，而应站在主动的位置上，尝试询问修改者一些问题，思考自己的SoP希望传达什么信息，想要展现哪些性格特征或学术能力上的优势。
+#### 2.3.5 注意事项
+* 切忌在SoP里面过多的抒情或者做一些无意义的人生感叹。这种内容毫无意义，只会降低整篇文章的专业性和整体性。
+* 切忌自吹自擂。有的同学会在SoP里大篇幅地提及自己的加权成绩、英语分数、荣誉证书等等一系列已经在CV里提过的内容。这一方面会造成信息累赘，另一方面会显得你很高傲。
+* 建议不要让“中介”或是淘宝上的代写帮你写SoP，尤其对于博士申请者。中介套用模板的现象极其严重，淘宝也不例外。此外，他们倾向于用华丽的辞藻来掩饰内容的空洞。这样的文章犹如绣花枕头毫无意义，也是委员会最不希望看到的。 
+### 2.4 推荐信（Reference Letter / Letter of Recommendation）
+#### 2.4.1 概述
+推荐信（Reference Letter/ Letter of Recommendation）是申请材料中十分重要的一部分，一封有分量的推荐信甚至可以在申请中发挥关键作用。推荐信为委员会提供第三方的视角来审视申请者。经过初筛，委员会会将所有文书材料开放给所有老师浏览，一般来说招收PhD的老师会更看重推荐信，在他们眼中，推荐信的分量有时甚至是压倒性的。申请系统中的推荐信提交流程大体如下：首先提供推荐人的姓名、联系方式、职位等，一定要勾选“I want to waive my rights of reading the reference letter”选项，点击提交后系统会自动向推荐人邮箱发送一封包含推荐信提交链接的request邮件，推荐人点击链接后注册账号、填写相关信息、上传推荐信文件。一般的，每位申请者需要提供三封推荐信。理论上，由于我们选择了“自愿放弃查看推荐信内容”，整个推荐流程应该完全由推荐人完成。但是国内的普遍现象是，由于推荐人的日常事务十分繁多，没有时间为我们写作、提交推荐信，更多时候我们需要自己撰写后由他们修改并确认，然后自行提交，因此我们仍然需要学习推荐信的写作方法。除此之外，在要求提交最后的推荐信之前，推荐系统通常有一个要求对申请者的各个方面打分的步骤，以选择填空的问卷形式呈现：
+* 申请人是否有正直的品质？
+* 申请人的智力水平如何？
+* 申请人的勤奋程度如何？
+* 申请人成为研究生是否合适？
+* 申请人作为研究者和未来职业发展的潜质如何？
+* 申请人在压力状态下表现如何，能否成功克服困难？
+* 申请人的英语听说读写能力如何？
+* 申请人有什么成绩可以反映其研究能力？
+* 申请人比其他人优秀在哪里或排名百分比？
+* 申请人有什么不足？
+#### 2.4.2 内容
+推荐信的核心观点在于要结合具体的事例展开，切忌空洞或泛泛而谈。第一段可以先给个总的观点“这位学生很优秀（具体优秀到百分之几）”。随后，正文段落所表达的核心思想必须基于推荐人与你一起经历的具体事例展开谈，诸如在实验室参加科研训练、课后工程设计作业、班级或学院的学生领导等等。所以，严格来说推荐信是一种出自第三方的SoP，都切忌假大空，注重基于事实的内涵！结尾段也可以适当升华，发起呼吁等等，可以自由发挥一下！此处特别提醒，事例不要造假！不限于推荐信，扩展到整个申请过程乃至以后的留学生活，都不要造假！西方国家（特别是美国）对于信誉看得非常之重，一旦被查出来后果相当严重。
+#### 2.4.3 推荐人的选择
+* 关系网络内的推荐信优先级高。推荐信的本质是一种来自第三方的对申请者的评价。就像有人向你介绍一个不认识的人，如果介绍人是你的好朋友、熟识的师长或某个权威人物，那么你在很大程度上会更容易接受他们做的介绍。因此，如果你的推荐人恰好是所申请学校的校友，或是招生官、教授的好朋友，那么被该学校接受的可能性相应地会增大。同理，如果你的推荐人是业界闻名的大牛，那么录取委员会也会相应地掂量推荐信的分量。当然也有例外，大牛的名声确实如雷贯耳，但有些人由于对学生太好，每年会发出很多推荐信甚至很多强推，长此以往名声坏了，该老师推荐信的分量就会大打折扣。
+* 海外推的重要性一般高于国内推。国内相当一部分推荐信出自学生之手，所以招生官最后很难通过推荐信中类似“great, excellent, best”等暧昧不清的词中对学生做出准确的判断。曾经国内某高校同一专业的两位同学申请了美国A校，二人自撰的推荐信中都出现了“Top 1”这一词语。最后，该高校惨遭A校招生官拉黑，后面几年申请A校的同学颗粒无收。究其原由，国内并不流行“推荐信文化”，而美国高校乃至企业之间对推荐信看得很重。这一事件也恰好呼应了我上面所说的，推荐信的真实性。所以，一般而言，海外推荐信的认可度高于国内推荐信。推荐信一定要找了解你的人写。录取委员会最看重与被推荐人有密切工作关系或熟悉你的科研能力、学术水平和组织领导才能的人士。他们具体而有针对性的推荐往往比地位高的人或是所谓“大牛”的推荐信更有说服力。“领导牛推”不一定牛。院系的领导层在行政级别上确实高，但并不意味着他们的学术地位同样高，一位学术造诣不高、名气不大的领导写的推荐信在招生官眼里与普通教授写的推荐信无异。
+#### 2.4.4 格式要求
+推荐信的格式参照一般书信格式即可，有些学校要求推荐信有正式的信头和签名，因此我们推荐在页眉处增加华中科技大学标识，在结尾落款处写上推荐人的职位、所属单位、联系方式等。带有校徽标识的信纸可从留学服务中心（友谊公寓旁边）购买得到。推荐信完成后应打印并请推荐人签名，扫描后转换为PDF格式上传。
+#### 2.4.5 注意事项
+* 推荐信的核实就目前来看，对方学校不会仔细审查推荐信的真伪。但是近几年的趋势表明，有越来越多的学校开始使用技术手段对推荐信加以审查。尚未证实的是，一些学校会对上传推荐信的IP地址加以识别，还有一些学校会将推荐信email或邮寄给推荐人要求核实确认。因此申请者在自行提交推荐信前，一定要让推荐人确认内容，确认后不得再做修改。提交时，切忌同时向同一个学校提交多封推荐信，应尽可能变换时间、地点、电脑完成提交工作。如被发现推荐信造假，后果不仅是被申请的学校拒绝，更会影响我校声誉，导致及其严重的后果。
+* 推荐人的数量通常情况下，每所学校要求提供三封推荐信。但是鉴于提交推荐信工作本身十分麻烦，同时考虑到推荐人自身性格等，有的人不一定愿意帮你提交太多封推荐信。因此，在发出推荐信request之前，应与推荐人充分沟通，确认他愿意提交的推荐信数量，根据实际情况选择多于三位备选推荐人，以满足所有学校的要求。
+* 风险与建议这里谈的风险多存在于推荐人亲自撰写的推荐信中。由于选择了“放弃查看推荐信内容的权利”这一选项，我们无法得知推荐人到底写了什么，因此在索要推荐信的同时，应尽可能确认该推荐信的性质。可在提出请求同时直接询问“这封推荐信是否将是一封强推”，或“您会在推荐信中提到哪些内容”。一般情况下，推荐人会如实告知，申请者可以自行判断后决定是否使用、在哪些学校的申请中使用该推荐信。在选择推荐人的时候一定要慎之又慎，在充分调研这位老师的人品并且与老师敞开心扉聊过后，才能放心地采纳该导师的推荐信。近两年出现了两个比较典型的海外推荐信被坑的案例。案例一，暑研外导表面一副要给你强推的样子，背地里却偷偷给了你“黑推”。其目的在于毁掉该生的申请，让该生除了留在他组里之外无路可走。案例二，暑研外导把推荐信的数目严格限制在三封以内，严重破坏了该生的申请计划。
+## 2.5 硕士项目的文书差异
+以上三个小节我们系统而详细地说明了博士项目申请文书，硕士文书大体上都可以参考上述内容。本小节将结合各位硕士申请者的经验，谈一下硕士项目的文书相对于博士项目可能存在的小差异。总体而言，大部分学校的硕士项目依然是要求简历、个人陈述和推荐信这三块。对于硕士申请，PS/SoP是几乎所有学校要求的文书（极少数可选，如CMU  ECE）；一部分学校会强制要求CV，一部分将其作为可选材料；而除了南加大外几乎所有学校都会要求LoR。就编者了解，学校第一轮筛选过后才会接触检阅申请人的文书，因而成绩、本科出身和先修课程等“硬实力”是硕士申请的门槛，文书写作的目的就是在硬实力达标的前提下，让招生官或者教授决定要你。编者认为，在文书写作没有失误的前提下，对于硕士申请三者在申请中所占的分量大约是LoR>PS≈CV。且申请者应该尽量提供这些材料，即使它们可能是可选的。具体而言，硕士申请文书和博士申请文书的主要区别在于围绕“专业”本身的内容需要写多少。博士项目的文书更侧重“目的”  ，也就 是让招生官了解你作为一名未来的科研工作者，在专业领域内的学习能力、研究经历和未来的研究、职业规划，因此博士文书主要篇幅都用于写研究经历和计划。而与之相对应的，硕士的文书则是从本科的各种经历出发，包括学术的，科研的，学生活动的，社会实践的，证明各方面都有较好的素质，证明你有能力胜任硕士课程的学习，乃至是将来可能的科研任务。但是不论硕士还是博士，文书都要体现出申请人的计划性，例如：我读这个项目是为了什么？我能为这个项目做出怎样的贡献（PhD）? 等等。有规划的文书会让招生官相信你有充足的动机（Motivation)来完成学业，从而提高收到录取的机会。尤其是PhD申请者，一般来说，看上去很积极主动（Highly motivated）的申请者往往更受招生官（教授）的青睐。2.5.1 硕士项目的CV 如前所述，一些硕士项目并不强制要求CV，但是编者鼓励申请者提交这一材料，以更有效地展示你的项目经历。一般而言简历部分与博士差别不大，只是硕士的简历内容可以适当降低科研经历和科研能力的展示，可以考虑适当从不同角度来展示你作为学生的全面性。例如，篇幅条件允许的情况下，你可以考虑在简历中添加自己的项目（或者公司）实习、社会实践、有意义的团队组织活动等等内容。2.5.2 硕士项目的SoP 个人陈述是硕士、博士文书差异性相对而言比较大的地方。在撰写PS/SoP前，应仔细阅
+读学校网站的内容和格式要求，严格遵照执行。一般认为，PS/SoP用来展示申请者的“软背景”，例如技能，学术实力，动机等。PS/SoP为委员会展示申请人对自我的定位和认识：比如为什么申请人要读硕士？他的动机和人生规划是什么？短文本身也能检查申请者的英文书写作能力和自我表达能力。以下以UCSD的官方要求为例，说明硕士项目SoP的写作要求：
+```
+Focus your Statement of Purpose on the reasons you are interested in attending a specific graduate program at UCSD. Check the department requirements for the Statement of Purpose. The statement should be well organized, concise, and completely free of grammar, punctuation, and spelling errors. 
+
+Before submitting the statement, seek constructive comments and criticism from friends and advisorsFive primary topics to cover in your statement of purpose:1.How did you become interested in this field? Establish that you have had a long-term interest in the field and that  you  have  taken  positive  steps  in  pursuing  your  interest.  Give  the  committee  members  a  sense  of  your  particular talents and abilities and their relevance to your academic interests.2.What experiences have contributed toward your preparation for further study in this field? Demonstrate your interest  by  providing  examples  of  research  experiences,  internships,  work  experience,  community  service,  publications,  or  life  experiences.  Briefly  describe  what  you  did  in  each  experience.  Also,  make  sure  to  articulate what you have learned about the field and how those lessons stimulated you to pursue an advanced degree.3.What  are  your  future  goals?  Specifically  state  your  degree  objective  (Master's  or  PhD)  and  specify  what  subdisciplines  you  are  interested  in  pursuing.  For  example,  if  you  are  applying  in  political  science,  the  committee needs to know whether you are pursuing American Politics, Comparative Politics, International Relations,  or  Political  Theory.  Let  the  reader  know  that  you  are  planning  a  future  career  as  a  university  professor, researcher, or consultant, or in public service or private practice (or whatever your goal happens to be).4.What are your research interests? Within your subdiscipline, you should be able to identify one or two topics that are of interest to you. When possible, be specific about your research agenda. Remember that you will be working with professors in research; therefore, your research interests should parallel those of the faculty. (You will usually not be expected to know exactly what you want to research; faculty know that initial interests often change.)5.How are you a "match" for the program to which you are applying? Explain what attracts you most to the institution/program to which you are applying. Align your research interests with those of one or more of the affiliated professors. The better the "match" with the program/professors, the better the chance that you will be admitted.Other factors to weave in (remember these are secondary factors):Give examples of personal attributes or qualities that would help you complete graduate    study successfully.Describe  your  determination  to  achieve  your  goals,  your  initiative  and  ability  to  develop  ideas,  and  your  ability to work independently.Describe  background  characteristics  that  may  have  placed  you  at  an  educational  disadvantage  (English  language learner, family economic history, lack of educational opportunity, disability, etc.).Leave  the  reader  believing  that  you  are  prepared  for  advanced  academic  work  and  will  be  successful  in  graduate school.
+```
+UCSD的PS要求算是较为详细的，并非所有学校都会给出如此具体的要求与建议。可以看到UCSD对于PS要求了五个需要涵盖的话题——如何对这个领域产生兴趣的、哪些经历对这一领域的深造起到了贡献作用、未来的目标、研究兴趣以及自身对于所申请的项目怎样匹配；还给出了一些可以一写的内容——能让你成功完成研究生学习的个人特质、实现目标的决心、既往的劣势等。其它学校虽然不一定给出了这样具体的写作指导，但也大都会有概括性的内容要求。所以申请者在写作时可以先根据所申请学校的共性要求来创作一份原始版PS/SoP，再根据不同学校的具体要求以及你选择这所学校的原因去修改出不同学校的版本。值得注意的是，PS除了内容本身还可能存在格式方面的要求。下面举出几例：UCSD，应为2MB以内的PDF文档；罗彻斯特大学，不长于3页、姓名与生日应标示在每页的页眉处、应包含页码；纽约大学，双倍行距、一至两页、包含姓名与所申请的项目。申请者在完成文书内容的写作之后一定要再次去所申请学校的网站上核查格式要求，针对要求作出具体的微调。（以上格式要求仅作示例，申请时需自己在网站上查阅最新要求。）
+#### 2.5.3 硕士项目的推荐信
+硕士项目的推荐信从内容上说，可能更偏向于从一个全面的角度展示你很强学习能力、活泼的的思维、足以完成学业的坚持和耐心等等。从作用和结果的角度来说，对于硕士申请，如果你有来自“牛校”或者“牛人”的推荐信，也会为申请添色不少。“牛推”——来自领域内知名教授的推荐性，或者“强推”——对申请人评价极高的推荐信至关重要。而硕士申请者由于可能缺乏科研经验以及和推荐人的交往，可以在推荐信上更多表现申请者的品质和学术潜力。
+### 2.6 文书写作参考网站
+在我们撰写文书之前，广泛的阅读一些国外的文书案例（如来自某教授个人主页上的学生的SoP） ，对于文书书写有很大的指导意义。
+### 2.6.1 个人陈述
+学校要求实例有不少学校的SOP/PS要求会出现在网申页面中，申请者也要注意这些要求。尤其对于请中介的申请者来说，中介不一定会仔细看这些要求，申请者要自己心里有数。下面附一些学校的SOP/PS要求，抛砖引玉。UCSDUMICH ECEDUKE ECENWUUCLA2.6.2 个人陈述写作参考7 Successful Statement of Purpose Examplesberkeley SOP SampleUCLA SOP AdviceUCLA SOP train10 Short Essays SOP （TODO 处理链接缺失）
+
 ## 面试和套磁
 (感谢光电学院友情提供！)
 ### 4.1 本章综述
