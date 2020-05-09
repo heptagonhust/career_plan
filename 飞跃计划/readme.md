@@ -1,4 +1,7 @@
 # Index
+# 香港
+[港中文CUHK 1](https://mp.weixin.qq.com/s/NwavWKchXlJfO83huT1GNQ)
+[2](https://hustport.com/d/148-cse)
 # 英语学习(以下感谢光电学院友情提供！)
 1.6   GRE和TOEFL的准备技巧
 ## 1.6.1 英文学习/英文能力提高
