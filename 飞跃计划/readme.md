@@ -197,7 +197,18 @@ https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html
 ### 2.6 文书写作参考网站
 在我们撰写文书之前，广泛的阅读一些国外的文书案例（如来自某教授个人主页上的学生的SoP） ，对于文书书写有很大的指导意义。
 ### 2.6.1 个人陈述
-学校要求实例有不少学校的SOP/PS要求会出现在网申页面中，申请者也要注意这些要求。尤其对于请中介的申请者来说，中介不一定会仔细看这些要求，申请者要自己心里有数。下面附一些学校的SOP/PS要求，抛砖引玉。UCSDUMICH ECEDUKE ECENWUUCLA2.6.2 个人陈述写作参考7 Successful Statement of Purpose Examplesberkeley SOP SampleUCLA SOP AdviceUCLA SOP train10 Short Essays SOP （TODO 处理链接缺失）
+学校要求实例有不少学校的SOP/PS要求会出现在网申页面中，申请者也要注意这些要求。尤其对于请中介的申请者来说，中介不一定会仔细看这些要求，申请者要自己心里有数。下面附一些学校的SOP/PS要求，抛砖引玉。
+* [UCSD](http://grad.ucsd.edu/admissions/requirements/statement-of-purpose.html)
+* [UMICH ECE](http://www.eecs.umich.edu/eecs/graduate/ece/grad-profile.html)
+* [DUKE ECE](https://gradschool.duke.edu/admissions/apply/statement-purpose)
+* [NWU](https://www.mccormick.northwestern.edu/electrical-computer/graduate/admissions/)
+* [UCLA](https://graduate.universityofcalifornia.edu/admissions/applying/personal-statement/index.html)
+### 2.6.2 个人陈述写作参考
+* [7 Successful Statement of Purpose Examples](https://www.prepscholar.com/gre/blog/graduate-school-statement-of-purpose-sample/)
+* [berkeley SOP Sample](http://ls.berkeley.edu/sites/default/files/statement_of_purpose.pdf)
+* [UCLA SOP Advice](https://grad.ucla.edu/asis/agep/advsopstem.pdf)
+* [UCLA SOP train](https://wp.ucla.edu/wp-content/uploads/2015/12/personal-statements-and-statements-of-purpose.pdf)
+* [10 Short Essays SOP](https://www.e-education.psu.edu/writingpersonalstatementsonline/sites/www.e-education.psu.edu.writingpersonalstatementsonline/files/file/Chapter4ShortEssays.pdf)
 
 ## 面试和套磁
 (感谢光电学院友情提供！)
