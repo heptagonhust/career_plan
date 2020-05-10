@@ -5,6 +5,9 @@
 - [phd](#phd)
 - [签证](#签证)
 - [生活](#生活)
+
+意见反馈, 电邮 zouyoo@outlook.com 或:
+https://github.com/heptagonhust/career_plan/issues/new
 # 香港
 [港中文CUHK 1](https://mp.weixin.qq.com/s/NwavWKchXlJfO83huT1GNQ)
 [2](https://hustport.com/d/148-cse)
