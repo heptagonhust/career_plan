@@ -386,6 +386,10 @@ ACM1601 郑铭薇 提供：
 我是硕博混申，共申请了11个博士项目12个硕士项目，硕士项目选择的基本都是专排前二十的学校，结合三围(gpa3.92,T107,G323+3.5)和科研背景，以南加大和莱斯作为保底，CMU，UIUC，UT Austin，UMICH等彩票项目也申了一些。考虑到CS博士项目申请竞争异常激烈，所以11个博士项目以专排10至30名的项目为主，目前看来定位应该是比较准，11个博士项目有8所学校（Purdue, UMD, OSU, PSU, Tamu, Duke, UCI, Umass）11位导师面试，收到了Purdue, UMD, JHU, PSU, TAMU三所学校博士offer。
 
 ```
+南方科技大学的同学:
+
+ - [谢丹宁](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E8%B0%A2%E4%B8%B9%E5%AE%81) 
+ - [阎相易](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E9%98%8E%E7%9B%B8%E6%98%93)
 # 签证
 略，去网上自己找吧
 注意事项，J签暑研非常容易被check，记得提前
