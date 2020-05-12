@@ -6,6 +6,8 @@
 - [签证](#签证)
 - [生活](#生活)
 
+其他学校的类似手册[南方科技大学2019](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/README)
+
 意见反馈, 电邮 zouyoo@outlook.com 或:
 https://github.com/heptagonhust/career_plan/issues/new
 # 香港
@@ -90,7 +92,7 @@ Master的面试相对于PhD而言，更侧重于一些比较general的问题，�
 ## **风险提示**
 phd 会面临各方面的压力，相比之下，本科毕业直接去工作，工资也会不错，三思而后行。
 ### 未来的生活
-此处待补充悲伤的phd生活。
+此处待补充悲伤的phd生活。TODO
 ### 未来的研究生涯
 此处补充几个高年级但还是没有足够多paper的phd经历
 ```
@@ -123,6 +125,15 @@ AI lab  （链接待补充）
 ### 经历总结
 （ACM1601 郑铭薇 提供）
 我的暑研套磁过程是从看csrankings这个网站开始的，然后一个一个学校看教授的主页，我套的这个教授在主页上注明了招visiting students，这种同意去暑研的概率会比较大。当然，即便主页没有写也没有关系，发个邮件问问有没有Open positions正常套磁就好。另外，建议一定要尽可能去排名高的学校，找的教授也要是那种connection强的，这种教授的推荐信对硕博申请非常有用。而且如果要读博，暑研教授的方向最好是你将来读博想做的方向。一个老板的推荐信对于与他同一领域的老板是最有用的。当然了，博士的时候如果申请和他有过合作的老板，拿到面试的几率就很大了。再就是套磁信，千篇一律的那种海套作用不大的，套磁前要先看看教授的paper，套磁邮件里面提一提：自己对教授的哪个work感兴趣、自己有没有什么idea，这样教授更容易对你感兴趣的，并且附上自己的CV，现在很多老板都会要你的加权甚至是排名，排名高的同学可以考虑提前开好排名，附到套磁信和CV里面。
+### 暑研
+以下均来自南方科技大学的[此页面](https://sustech-application.github.io/2019-Fall/#/%E6%B5%B7%E5%A4%96%E4%BA%A4%E6%B5%81/%E6%9A%91%E7%A0%94/%E5%9C%A8%E8%AE%A1%E7%B3%BB%EF%BC%8C%E6%9A%91%E7%A0%94%E5%AF%B9%E5%8C%97%E7%BE%8E%E7%94%B3%E8%AF%B7%E9%87%8D%E8%A6%81%E6%80%A7%E7%9A%84%E8%AE%A8%E8%AE%BA)，如果有同学想补充，请同时去给南方科技大学的文档进行提交，如果发现那边有更新，看到的同学麻烦也更新一下这边
+
+ - [CSST @ UCLA](https://csst.ucla.edu/)
+ - [UCInspire @ UCI](https://sites.uci.edu/ucinspire/)
+ - [MITACS @ 加拿大](https://www.mitacs.ca/en)
+ - [ICT Summer Research Program @ USC](http://ict.usc.edu/academics/internships/)
+ - [RISS @ CMU](https://riss.ri.cmu.edu/)
+ - [Summer @ EPFL](https://summer.epfl.ch/)
 
 ### 暑研进行中（感谢光电学院友情提供！）
 #### 3.3.4 暑研的时间节点
