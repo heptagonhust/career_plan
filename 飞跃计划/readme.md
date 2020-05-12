@@ -86,6 +86,8 @@ Master的面试相对于PhD而言，更侧重于一些比较general的问题，�
 ```
 我申请的都是硕士项目，共申请了15个硕士项目，按照冲稳保三个层次（6+5+4）来分配的，目前看来MS确实很困难，我的三维GPA3.90+T103+G(323+3.5)最终只拿到USC，NYU，西北大学的CS，和cmu-SV分校的SE offer。
 ```
+南方科技大学的同学
+ - [陈德缘](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-16-chendeyuan)
 
 # phd
 因为这边最近主要是研究型的申请，所以master申请这里不做单列，欢迎补充。
@@ -390,6 +392,9 @@ ACM1601 郑铭薇 提供：
 
  - [谢丹宁](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E8%B0%A2%E4%B8%B9%E5%AE%81) 
  - [阎相易](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E9%98%8E%E7%9B%B8%E6%98%93)
+ - [王雨童](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-16-wangyutong)
+ - [张兆旭](https://sustech-application.github.io/2020-Fall/#/grad-application/computer-science-and-engineering/[US]-16-zhangzhaoxu)
+
 # 签证
 略，去网上自己找吧
 注意事项，J签暑研非常容易被check，记得提前
