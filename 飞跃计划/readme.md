@@ -406,4 +406,11 @@ ACM1601 郑铭薇 提供：
 希望能认识自己，接受自己，寻找自己想要的，缓解社会差异带来的(自我)厌恶情绪，并提升自己。
 希望大家多培养一些兴趣爱好，一些地区的学生宿舍和公寓都有健身房，一些学校也会有登山/骑自行车之类的俱乐部。
 
-
+====style code start====
+<style>
+.aw-content-wrap{
+background-repeat:repeat;
+background-position: right top;
+background-image:url("data:image/svg+xml;base64,xx=");
+}
+</style>
