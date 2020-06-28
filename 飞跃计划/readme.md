@@ -388,6 +388,11 @@ ACM1601 郑铭薇 提供：
 我是硕博混申，共申请了11个博士项目12个硕士项目，硕士项目选择的基本都是专排前二十的学校，结合三围(gpa3.92,T107,G323+3.5)和科研背景，以南加大和莱斯作为保底，CMU，UIUC，UT Austin，UMICH等彩票项目也申了一些。考虑到CS博士项目申请竞争异常激烈，所以11个博士项目以专排10至30名的项目为主，目前看来定位应该是比较准，11个博士项目有8所学校（Purdue, UMD, OSU, PSU, Tamu, Duke, UCI, Umass）11位导师面试，收到了Purdue, UMD, JHU, PSU, TAMU三所学校博士offer。
 
 ```
+Y同学 提供：
+```
+我一共申请了20个硕士项目。背景：GPA 3.97,T 108, G 331+3.5, ntu暑研。收到了9个AD: CMU MSIN, EPFL CS, Yale CS, Duke CS, Columbia CS,  Upenn CIS , NYU Tandon CS, USC CS &AI。11个Rej: Stanford CS, CMU MIIS/MCDS/MSML, UCLA CS, UT AUSTIN CS(降录online), Gatech CS, UCSD CS, UCI MSCS, Umich CSE, Mcgill CS。被拒的项目大多应该是科研/实习背景不够，其中MIIS需要nlp背景。我申请的大S、UCLA、UT Austin、Umich的项目收的陆本人数也不多（仅来自地里的数据），大家可以酌情送钱。Gatech和UCSD今年的录取标准略玄学，hust录UCSD的也不少，可以试试。大家选校时可以参考地里的往年录取人数、背景。另外，选项目之前看看学校网站的项目介绍，如果想research，关注有没有毕业论文要求，或者thesis option/track。如果想找工，可以看学校有没有实习要求。另外，对于CMU这样开设了多个相关专业的学校，除了学校给出的项目概要比较，最好自己看看课程设置（必修、选修课程），没事的时候可以在地里看项目体验（劝退/安利）。项目bar高不代表它一定更合适你。由于现在的特殊情况，最后再提一下瑞士的EPFL（我当时偷懒没申ethz),申请很简单，甚至不要求托福成绩，推荐信交两封可以开始审材料。个人感觉比较看重GPA。一学期只需要交780CHF，既不用交deposit也不用交签证费，现在还能随时约签，对比美国，体验太良好了（哭）。录取的学生里本科大概HUST/WHU垫底了吧（笑）。
+
+```
 南方科技大学的同学:
 
  - [谢丹宁](https://sustech-application.github.io/2019-Fall/#/%E4%B8%AA%E4%BA%BA%E7%94%B3%E8%AF%B7%E6%80%BB%E7%BB%93/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B%E7%B3%BB/[US]-15-%E8%B0%A2%E4%B8%B9%E5%AE%81) 
